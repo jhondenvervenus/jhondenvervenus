@@ -26,13 +26,14 @@
 <p>
   <h2 align="center"> Socials </h2>
   <p align="center">
-  <a href="https://www.roblox.com/users/YOUR-ROBLOX-ID/profile" target="_blank">
+  <a href="https://www.roblox.com/share?code=d99eea3eaa75f448b1fd86026a4f9e35&type=Profile&source=ProfileShare&stamp=1793619270264" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+  <a href="https://www.facebook.com/den.ramyun" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+    
+  <a href="https://www.instagram.com/den.ramyun/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
