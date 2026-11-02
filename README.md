@@ -16,7 +16,6 @@
 <h2 align="center"> Hobbies and Interest </h2>
 
 <p align="center">
-  🎓 <b>3rd Year BS Computer Science Student</b><br>
   🏀 <b>Height & Hobbies:</b> 5'8" | Play basketball & regular gym-goer<br>
   🎮 <b>Gamer & Pet Lover:</b> Enjoy playing Roblox & I love dogs 🐶<br>
   🍲 <b>Favorite Comfort Food:</b> Big fan of hot goto after a heavy workout<br>
