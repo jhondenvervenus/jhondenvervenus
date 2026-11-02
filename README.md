@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github.com/jhondenvervenus/jhondenvervenus/blob/483ebdbbd8f815ad08c729b3e0a8797a38759652/images.jpg" alt="Header Banner" width="100%" style="border-radius: 10px;">
 </p>
-<h2 align="center"> About Me </h2>
+<h2 align="center"> Hobbies and Interest </h2>
 
 <p align="center">
   🎓 <b>3rd Year BS Computer Science Student</b><br>
